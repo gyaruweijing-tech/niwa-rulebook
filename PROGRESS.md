@@ -33,7 +33,10 @@
 
 ### 2026-07-16 (続き)
 - GitHubリポジトリ作成 & push（gyaruweijing-tech/niwa-rulebook、Public）
-- GitHub Pages自動デプロイ（configure-pagesで自動有効化）
+- GitHub Pages公開完了 🎉 → https://gyaruweijing-tech.github.io/niwa-rulebook/
+  - Pages有効化はSettings→Pagesで手動が必要だった（Actionsトークンでは権限不足）
+  - 本番でService Worker有効を確認（オフライン動作OK）
+- セキュリティ精査済み: 秘密情報なし・ルールデータはlocalStorageのみで非公開
 
 ## TODO
 - [ ] iPhoneでホーム画面追加 → 機内モードで動作確認
