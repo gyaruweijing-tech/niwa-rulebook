@@ -31,10 +31,11 @@
 - PWA設定（manifest + アイコン生成済み）
 - 初期データ: 「場所の自由」にお金を使う（三箇条 其の一）
 
-## TODO
+### 2026-07-16 (続き)
+- GitHubリポジトリ作成 & push（gyaruweijing-tech/niwa-rulebook、Public）
+- GitHub Pages自動デプロイ（configure-pagesで自動有効化）
 
-- [ ] GitHubリポジトリ作成 & push（gyaruweijing-tech）
-- [ ] GitHub Pages 有効化（Settings → Pages → Source: GitHub Actions）
+## TODO
 - [ ] iPhoneでホーム画面追加 → 機内モードで動作確認
 - [ ] claude.aiのメモリからルール例を持ってきて心得に登録
 - [ ] 卒業理由の入力を prompt() からモーダルに変える（v2）
